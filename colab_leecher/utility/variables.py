@@ -66,7 +66,7 @@ class Paths:
     HERO_IMAGE = f"{WORK_PATH}/Hero.jpg"
     down_path = f"{WORK_PATH}/Downloads"
     temp_dirleech_path = f"{WORK_PATH}/dir_leech_temp"
-    mirror_dir = "/content/drive/MyDrive/Colab Leecher Uploads"
+    mirror_dir = "/content/drive/Shareddrives/#104/Colab_Leecher_Uploads"
     temp_zpath = f"{WORK_PATH}/Leeched_Files"
     temp_unzip_path = f"{WORK_PATH}/Unzipped_Files"
     temp_files_dir = f"{WORK_PATH}/dir_leech_temp"
